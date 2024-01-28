@@ -1,13 +1,13 @@
 ---
 # Display name
-title: aaaa
+title: Patryk Hubar-Kołodziejczyk
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Patryk
+last_name: Hubar-Kołodziejczyk
 
 # Status emoji
 status:
@@ -17,34 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Digital Humanities specialist | Lecturer | Python developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Faculty of Journalism, Information and Bibliology, University of Warsaw
+    url: https://www.wdib.uw.edu.pl/
+  - name: Institute of Literary Research of the Polish Academy of Sciences
+    url: https://ibl.waw.pl/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: M.A., digital humanities specialist at the Centre for Digital Humanities, specialist at University of Warsaw
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Python programming
   - Information Retrieval
+  - Text and data mining
+  - Natural language processing
+  - Semantic Web
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Media and Communication Studies
+      institution: University of Warsaw, Polish Academy of Sciences, Polish-Japanese Academy of Information Technology
+      year: 2024
+    - course: Msc in Information Architecture
+      institution: Univeristy of Warsaw
+      year: 2018
+    - course: BSc in Library and Information Science
+      institution: Univeristy of Warsaw
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,21 +74,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        icon: 
+        icon_pack: 
+      - name: Animals
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: Gym
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: 
+        icon_pack:
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,7 +101,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/patthub
     label: Follow me on Twitter
     display:
       header: true
@@ -105,7 +110,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/patthub
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As part of doctoral studies “Digital Humanities” conducted by the Institute of the Literary Research of the Polish Academy of Sciences and Polish-Japanese Academy of Information Technology he is preparing a doctoral dissertation on the processing of bibliographic data with the use of machine learning algorithms. At the same time, he cooperates with the Department of Information Studies at the Faculty of Journalism, Information and Bibliology of the University of Warsaw, where he conducts classes for first and second degree students. 
 {style="text-align: justify;"}
