@@ -86,7 +86,7 @@ skills:
         icon_pack: fas
       - name: Gym
         description: ''
-        percent: 80
+        percent: 90
         icon: 
         icon_pack:
 
